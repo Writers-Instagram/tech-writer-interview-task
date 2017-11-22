@@ -28,8 +28,8 @@ We know that GitHub's glossary is a high entry threshold. You can refer to [this
 
 ### Content
 
-We strongly encourage you to use [Markdown](http://daringfireball.net/projects/markdown/syntax) that you can mix with HTML, if you really need. This is our standard syntax for writing content.
+We strongly encourage you to use [Markdown](https://www.markdowntutorial.com/) that you can mix with HTML, if you really need. This is our standard syntax for writing content.
 
 ## Expected outcome
 
-The expected outcome is a [pull request](../../issues) with the file and its content, as described above.
+The expected outcome is a [pull request](../../pulls) with the file and its content, as described above.
