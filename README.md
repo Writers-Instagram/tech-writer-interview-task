@@ -13,7 +13,7 @@ Please **fork** this repository and create a new file in the `tasks` folder. The
 
 Provide content in this file. It should contain the following sections:
 
-* Explanation of what you think GitHub, using your own words
+* Explanation of what you think GitHub is, using your own words
 * Sample documentation
 
 ### Step 3
